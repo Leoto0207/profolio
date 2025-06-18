@@ -4,7 +4,7 @@ import "./App.css";
 import Navabar from "./Navbar";
 import Home from "./Home";
 import Skills from "./Skills";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./Footer";
 
 function App() {
